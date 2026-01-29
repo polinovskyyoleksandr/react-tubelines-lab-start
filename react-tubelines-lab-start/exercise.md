@@ -7,7 +7,7 @@ In this lab you will build an App to monitor the current status of the London Un
 Using the TfL API, build a mobile-oriented web app that:
 • Lists the London Underground lines sorted alphabetically
 • Shows the current status of each line
-• Updates the status every 5 minutes
+• Updates the status every 5 minutes setInterval
 
 Use the following endpoint: `https://api.tfl.gov.uk/line/mode/tube/status`. Don't forget to test the endpoint in Postman first!
 
